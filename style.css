@@ -1,0 +1,13 @@
+body{
+	padding:5%;
+}
+
+.output {
+			background-color: white;
+			color: lightblue;
+			padding:3vh;
+			border-radius: 0;
+			font-size: 3vw;
+			text-align: center;
+			font-family: "Times New Roman";
+		}
